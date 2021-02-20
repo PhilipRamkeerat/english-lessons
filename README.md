@@ -2,7 +2,7 @@
 - Personal notes of English studies
 
 ## Simple Future
-https://www.educamaisbrasil.com.br/enem/ingles/simple-future
+[Simple-Future](https://www.educamaisbrasil.com.br/enem/ingles/simple-future)
 
 ## Future Going to
 https://brasilescola.uol.com.br/ingles/going-to.htm
@@ -13,5 +13,13 @@ https://www.ef.com.br/guia-de-ingles/gramatica-inglesa/present-continuous-com-se
 ## Future Continous
 https://brasilescola.uol.com.br/ingles/future-continuous.htm#:~:text=O%20tempo%20verbal%20future%20continuous,a%C3%A7%C3%A3o%20que%20aconte%C3%A7a%20no%20futuro.
 
+Will be + v.ing
+
+Ex: At 4pm we will be studying English
+
 ## Future Perfect
 https://www.todamateria.com.br/future-perfect/
+
+will have + v. Past Participle
+Something that will be finished at some point in the future.
+Ex: At 6:05pm the class will have finished
